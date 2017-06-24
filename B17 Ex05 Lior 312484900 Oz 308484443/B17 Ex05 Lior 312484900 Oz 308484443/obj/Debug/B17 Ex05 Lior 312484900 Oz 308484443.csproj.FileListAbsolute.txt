@@ -4,3 +4,9 @@ c:\users\lioro\documents\visual studio 2015\Projects\B17 Ex05 Lior 312484900 Oz 
 c:\users\lioro\documents\visual studio 2015\Projects\B17 Ex05 Lior 312484900 Oz 308484443\B17 Ex05 Lior 312484900 Oz 308484443\obj\Debug\B17 Ex05 Lior 312484900 Oz 308484443.pdb
 c:\users\lioro\documents\visual studio 2015\Projects\B17 Ex05 Lior 312484900 Oz 308484443\B17 Ex05 Lior 312484900 Oz 308484443\bin\Debug\B17 Ex05 Lior 312484900 Oz 308484443.exe.config
 C:\Users\lioro\Documents\Visual Studio 2015\Projects\B17 Ex05 Lior 312484900 Oz 308484443\B17 Ex05 Lior 312484900 Oz 308484443\obj\Debug\B17 Ex05 Lior 312484900 Oz 308484443.csprojResolveAssemblyReference.cache
+C:\Users\oznas\Desktop\B17_Ex05-master\B17 Ex05 Lior 312484900 Oz 308484443\B17 Ex05 Lior 312484900 Oz 308484443\bin\Debug\B17 Ex05 Lior 312484900 Oz 308484443.exe.config
+C:\Users\oznas\Desktop\B17_Ex05-master\B17 Ex05 Lior 312484900 Oz 308484443\B17 Ex05 Lior 312484900 Oz 308484443\obj\Debug\B17 Ex05 Lior 312484900 Oz 308484443.exe
+C:\Users\oznas\Desktop\B17_Ex05-master\B17 Ex05 Lior 312484900 Oz 308484443\B17 Ex05 Lior 312484900 Oz 308484443\obj\Debug\B17 Ex05 Lior 312484900 Oz 308484443.pdb
+C:\Users\oznas\Desktop\B17_Ex05-master\B17 Ex05 Lior 312484900 Oz 308484443\B17 Ex05 Lior 312484900 Oz 308484443\bin\Debug\B17 Ex05 Lior 312484900 Oz 308484443.exe
+C:\Users\oznas\Desktop\B17_Ex05-master\B17 Ex05 Lior 312484900 Oz 308484443\B17 Ex05 Lior 312484900 Oz 308484443\bin\Debug\B17 Ex05 Lior 312484900 Oz 308484443.pdb
+C:\Users\oznas\Desktop\B17_Ex05-master\B17 Ex05 Lior 312484900 Oz 308484443\B17 Ex05 Lior 312484900 Oz 308484443\obj\Debug\B17 Ex05 Lior 312484900 Oz 308484443.csprojResolveAssemblyReference.cache
